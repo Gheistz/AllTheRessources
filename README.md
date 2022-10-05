@@ -63,6 +63,12 @@
   - Cryptographie
     - https://cryptopals.com/
   - https://steflan-security.com/penetration-testing-interview-questions-cheat-sheet/#more-2205
+  - CTF Walkthroughs:
+    - https://steflan-security.com/category/walkthrough/hack-the-box/
+    - https://steflan-security.com/category/walkthrough/tryhackme/
+    - https://steflan-security.com/category/walkthrough/vulnhub/
+  - Enumeration:
+    - https://steflan-security.com/category/guides/enumeration/
 
 - To Be Categorized
   - https://capturetheflag.com.br/
