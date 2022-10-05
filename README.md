@@ -56,6 +56,9 @@
   - Nmap: https://steflan-security.com/nmap-cheat-sheet/#more-2225
   - Shell File Transfer: https://steflan-security.com/shell-file-transfer-cheat-sheet/#more-1545
   - NetCat: https://steflan-security.com/netcat-cheat-sheet/#more-887
+  
+- Exploits:
+  - https://github.com/ElliotAlderson51/Exploit-Writeups
  
 - Other Things
   - https://github.com/moloch--/RootTheBox
