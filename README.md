@@ -3,7 +3,7 @@
 - Other Complete Repos:
   - https://github.com/swisskyrepo/PayloadsAllTheThings
   - https://github.com/roya0045/Pentest-practice
-  - https://book.hacktricks.xyz/welcome/readme
+  - !!!! https://book.hacktricks.xyz/welcome/readme
   
 - OSINT
   - https://start.me/p/b5Aow7/asint_collection?locale=de
