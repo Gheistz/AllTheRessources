@@ -25,7 +25,6 @@
     - (possibly has Windows CTFs) https://www.vulnhub.com/
     - https://practicalpentestlabs.com/
     - https://www.hackthebox.com/
-    - https://tryhackme.com/
   - Checklists:
     - Privilege Escalation:
       - https://steflan-security.com/windows-privilege-escalation-cheat-sheet/#more-474
@@ -43,7 +42,6 @@
     - https://exploit.education/
     - https://overthewire.org/wargames/
     - https://www.hackthebox.com/
-    - https://tryhackme.com/
   - Checklists:
     - Privilege Escalation:
       - https://steflan-security.com/linux-privilege-escalation-checklist/#more-283
@@ -60,7 +58,6 @@
     - https://defendtheweb.net/articles/hacking
     - https://pentesterlab.com/exercises
     - https://www.hacksplaining.com/lessons
-    - https://tryhackme.com/
   - Checklists:
     - File Upload Restriction Bypass 
       - https://steflan-security.com/file-upload-restriction-bypass-cheat-sheet/#more-618
