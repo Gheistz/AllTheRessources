@@ -101,6 +101,8 @@
     - https://www.reddit.com/r/oscp/
     - https://www.reddit.com/r/torchsecuritynet/
     - https://www.reddit.com/r/ReverseEngineering/
+  - News & Tutorials
+    - https://null-byte.wonderhowto.com/
 
 - To Be Categorized
   - https://capturetheflag.com.br/
