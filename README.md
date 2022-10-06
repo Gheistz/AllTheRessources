@@ -3,6 +3,9 @@
 - Other Complete Repos:
   - https://github.com/swisskyrepo/PayloadsAllTheThings
   - https://github.com/roya0045/Pentest-practice
+  
+- OSINT
+
 
 - Windows:
   - Guides:
