@@ -95,6 +95,12 @@
     - https://leak.sx/index.php
   - CompTIA Studynotes
     - https://github.com/screeck/CompTIA-Security-
+  - Message Boards
+    - https://www.reddit.com/r/netsec/
+    - https://www.reddit.com/r/cybersecurity/
+    - https://www.reddit.com/r/oscp/
+    - https://www.reddit.com/r/torchsecuritynet/
+    - https://www.reddit.com/r/ReverseEngineering/
 
 - To Be Categorized
   - https://capturetheflag.com.br/
