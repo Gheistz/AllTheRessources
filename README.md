@@ -112,4 +112,11 @@
   - https://ringzer0ctf.com/
   - https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/
   - https://www.amanhardikar.com/mindmaps/Practice.html
+  - https://github.com/rsmudge/ElevateKit
+  - https://github.com/Z4nzu/hackingtool
+  - https://github.com/ElliotAlderson51/Exploit-Writeups
+  - https://attackdefense.pentesteracademy.com/listingnoauth?labtype=capture-the-flags&subtype=5-mega-ctf
+  - https://samsclass.info/126/WI2021.htm
+  
+  
   
