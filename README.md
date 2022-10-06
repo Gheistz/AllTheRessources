@@ -5,8 +5,11 @@
   - https://github.com/roya0045/Pentest-practice
   
 - OSINT
-
-
+  - https://start.me/p/b5Aow7/asint_collection?locale=de
+  - https://www.dehashed.com/
+  - https://haveibeenpwned.com/
+  - https://otx.alienvault.com/
+  
 - Windows:
   - Guides:
     - Privilege Escalation:
@@ -15,11 +18,14 @@
       - https://steflan-security.com/category/guides/privilegeescalation/windows/
       - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
       - https://www.udemy.com/course/windows-privilege-escalation/
+      - https://tryhackme.com/
     - PowerShell
       - https://underthewire.tech/
   - CTF:
     - (possibly has Windows CTFs) https://www.vulnhub.com/
     - https://practicalpentestlabs.com/
+    - https://www.hackthebox.com/
+    - https://tryhackme.com/
   - Checklists:
     - Privilege Escalation:
       - https://steflan-security.com/windows-privilege-escalation-cheat-sheet/#more-474
@@ -27,12 +33,17 @@
 
 - Linux:
   - Guides:
+    - Complete Overview:
+      - https://csea-iitb.github.io/IITBreachers-wiki/2020/08/01/welcome.html
     - Privilege Escalation:
       - https://steflan-security.com/category/guides/privilegeescalation/linux/
+    - https://tryhackme.com/
   - CTF:
     - https://www.vulnhub.com/
     - https://exploit.education/
     - https://overthewire.org/wargames/
+    - https://www.hackthebox.com/
+    - https://tryhackme.com/
   - Checklists:
     - Privilege Escalation:
       - https://steflan-security.com/linux-privilege-escalation-checklist/#more-283
@@ -42,12 +53,14 @@
 - WebApps:
   - Guides:
     - http://www.xssgame.com/
+    - https://tryhackme.com/
   - CTF:
     - https://www.vulnhub.com/
     - https://overthewire.org/wargames/
     - https://defendtheweb.net/articles/hacking
     - https://pentesterlab.com/exercises
     - https://www.hacksplaining.com/lessons
+    - https://tryhackme.com/
   - Checklists:
     - File Upload Restriction Bypass 
       - https://steflan-security.com/file-upload-restriction-bypass-cheat-sheet/#more-618
@@ -62,6 +75,8 @@
   
 - Exploits:
   - https://github.com/ElliotAlderson51/Exploit-Writeups
+  - News:
+    - https://packetstormsecurity.com/
  
 - Other Things
   - https://github.com/moloch--/RootTheBox
@@ -75,6 +90,11 @@
     - https://steflan-security.com/category/walkthrough/vulnhub/
   - Enumeration:
     - https://steflan-security.com/category/guides/enumeration/
+  - Account Generators:
+    - https://h-gen.to/
+    - https://leak.sx/index.php
+  - CompTIA Studynotes
+    - https://github.com/screeck/CompTIA-Security-
 
 - To Be Categorized
   - https://capturetheflag.com.br/
