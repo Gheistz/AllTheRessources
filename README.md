@@ -77,6 +77,9 @@
   - https://github.com/ElliotAlderson51/Exploit-Writeups
   - News:
     - https://packetstormsecurity.com/
+
+- Reverse Engineering
+  - https://crackmes.one/
  
 - Other Things
   - https://github.com/moloch--/RootTheBox
