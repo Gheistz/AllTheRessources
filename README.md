@@ -71,6 +71,7 @@
   - Nmap: https://steflan-security.com/nmap-cheat-sheet/#more-2225
   - Shell File Transfer: https://steflan-security.com/shell-file-transfer-cheat-sheet/#more-1545
   - NetCat: https://steflan-security.com/netcat-cheat-sheet/#more-887
+  - Windows AD: https://wadcoms.github.io/
   
 - Exploits:
   - https://github.com/ElliotAlderson51/Exploit-Writeups
