@@ -3,6 +3,7 @@
 - Other Complete Repos:
   - https://github.com/swisskyrepo/PayloadsAllTheThings
   - https://github.com/roya0045/Pentest-practice
+  - https://book.hacktricks.xyz/welcome/readme
   
 - OSINT
   - https://start.me/p/b5Aow7/asint_collection?locale=de
@@ -18,7 +19,8 @@
       - https://steflan-security.com/category/guides/privilegeescalation/windows/
       - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
       - https://www.udemy.com/course/windows-privilege-escalation/
-      - https://tryhackme.com/
+      - https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation
+    - https://tryhackme.com/
     - PowerShell
       - https://underthewire.tech/
   - CTF:
