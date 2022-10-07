@@ -4,6 +4,8 @@
   - https://github.com/swisskyrepo/PayloadsAllTheThings
   - https://github.com/roya0045/Pentest-practice
   - !!!! https://book.hacktricks.xyz/welcome/readme
+  - https://github.com/Z4nzu/hackingtool
+  - https://attackdefense.pentesteracademy.com/
   
 - OSINT
   - https://start.me/p/b5Aow7/asint_collection?locale=de
@@ -27,10 +29,15 @@
     - (possibly has Windows CTFs) https://www.vulnhub.com/
     - https://practicalpentestlabs.com/
     - https://www.hackthebox.com/
+    - https://samsclass.info/126/WI2021.htm
   - Checklists:
     - Privilege Escalation:
       - https://steflan-security.com/windows-privilege-escalation-cheat-sheet/#more-474
   - Tools:
+    - ElevateKit
+      - https://github.com/rsmudge/ElevateKit
+    - Binaries
+      - https://github.com/ElliotAlderson51/Exploit-Writeups
 
 - Linux:
   - Guides:
@@ -112,11 +119,4 @@
   - https://ringzer0ctf.com/
   - https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/
   - https://www.amanhardikar.com/mindmaps/Practice.html
-  - https://github.com/rsmudge/ElevateKit
-  - https://github.com/Z4nzu/hackingtool
-  - https://github.com/ElliotAlderson51/Exploit-Writeups
-  - https://attackdefense.pentesteracademy.com/listingnoauth?labtype=capture-the-flags&subtype=5-mega-ctf
-  - https://samsclass.info/126/WI2021.htm
-  
-  
   
