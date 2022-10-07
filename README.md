@@ -87,8 +87,7 @@
   - https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
   - https://unifiedkillchain.com/
   - https://www.varonis.com/blog/cyber-kill-chain
-  - https://attack.mitre.org/
-  
+  - https://attack.mitre.org/  
   
 - Exploits:
   - https://github.com/ElliotAlderson51/Exploit-Writeups
