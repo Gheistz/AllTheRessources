@@ -1,6 +1,8 @@
 # AllTheRessources
 
 - Other Complete Repos:
+  - !!! Active Directory Kill Chain Attack & Defense !!!
+    - https://github.com/infosecn1nja/AD-Attack-Defense
   - https://github.com/swisskyrepo/PayloadsAllTheThings
   - https://github.com/roya0045/Pentest-practice
   - !!!! https://book.hacktricks.xyz/welcome/readme
@@ -80,6 +82,14 @@
   - NetCat: https://steflan-security.com/netcat-cheat-sheet/#more-887
   - Windows AD: https://wadcoms.github.io/
   
+- KillChains
+  - https://github.com/infosecn1nja/AD-Attack-Defense
+  - https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+  - https://unifiedkillchain.com/
+  - https://www.varonis.com/blog/cyber-kill-chain
+  - https://attack.mitre.org/
+  
+  
 - Exploits:
   - https://github.com/ElliotAlderson51/Exploit-Writeups
   - News:
@@ -113,6 +123,7 @@
     - https://www.reddit.com/r/ReverseEngineering/
   - News & Tutorials
     - https://null-byte.wonderhowto.com/
+  
 
 - To Be Categorized
   - https://capturetheflag.com.br/
