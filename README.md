@@ -130,3 +130,7 @@
   - https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/
   - https://www.amanhardikar.com/mindmaps/Practice.html
   - https://www.crest-approved.org/membership/tiber-eu/
+  - https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/pf/ms/sb-tiber-eu.pdf
+  - https://www.intezer.com/ost-map/#
+  - https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm#_Toc65482705
+  - https://lolbas-project.github.io/
