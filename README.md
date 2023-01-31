@@ -138,3 +138,5 @@
   - https://cloud.hacktricks.xyz/pentesting-cloud/azure-pentesting
   - https://github.com/badchars/AzureAD-Pentest
   - https://crazyrdp.com/
+  - https://forum.hackersploit.org/
+  - 
