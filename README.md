@@ -134,3 +134,6 @@
   - https://www.intezer.com/ost-map/#
   - https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm#_Toc65482705
   - https://lolbas-project.github.io/
+  - https://github.com/Kyuu-Ji/Awesome-Azure-Pentest
+  - https://cloud.hacktricks.xyz/pentesting-cloud/azure-pentesting
+  - https://github.com/badchars/AzureAD-Pentest
